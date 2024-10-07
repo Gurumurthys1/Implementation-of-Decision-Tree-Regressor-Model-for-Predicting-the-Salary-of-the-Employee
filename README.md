@@ -8,26 +8,26 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import pandas as pd and import the required dataset.
 
-2.Calculate the null values in the dataset.
+step 1: start
 
-3.Import the LabelEncoder from sklearn.preprocessing
+step 2.Import pandas as pd and import the required dataset.
 
-4.Convert the string values to numeric values.
+step 3.Calculate the null values in the dataset.
 
-5.Import train_test_split from sklearn.model_selection.
+step 4.Import the LabelEncoder from sklearn.preprocessing
 
-6.Assign the train and test dataset.
+step 5.Convert the string values to numeric values.
 
-7.Import DecisionTreeRegressor from sklearn.tree.
+step 6.Import train_test_split from sklearn.model_selection.
 
-8.Import metrics from sklearn.metrics.
+step 7.Assign the train and test dataset.
 
-9.Calculate the MeanSquareError.
-10.Apply the metrics to the dataset.
+step 8.Import DecisionTreeRegressor from sklearn.tree.
 
-11.Predict the output for the required values. 
+step 0 .Calculate the MeanSquareError.
+
+step 10: End the program
 
 ## Program:
 ```
@@ -70,8 +70,8 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![image](https://github.com/naren2704/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118706984/7203da44-c341-479c-b90e-a4a61d5ffaed)
 
+![image](https://github.com/user-attachments/assets/1a9342e7-2c69-491f-b5bf-27ae051d5884)
 
 
 
